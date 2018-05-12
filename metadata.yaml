@@ -1,0 +1,38 @@
+_repo: Morale--A-Story-of-the-War-of-1941-43_20920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: Written before the outbreak of World War II, this remarkable story imagines
+  a military conflict in which a weapon of unprecedented power and destructiveness
+  is unleashed -- but this time, it's an enemy of the U.S. that has the upper hand.
+  With entire cities swept off the map in a matter of seconds, will the country be
+  able to fight back?
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2007-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: 'Morale: A Story of the War of 1941-43'
+url: http://www.gutenberg.org/ebooks/20920
